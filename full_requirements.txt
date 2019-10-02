@@ -1,5 +1,5 @@
-tensorflow
-tensorflow-hub
+tensorflow<2.0.0
+tensorflow-hub<2.0.0
 Pillow
 nltk
 libsixel-python
